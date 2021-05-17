@@ -1,0 +1,3 @@
+gunicorn
+django-allauth
+psycopg2
