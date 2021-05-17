@@ -17,3 +17,5 @@ In the chat window between two users, each user will see all the message history
 
 ## Sharing Locations with Hoommates via the Mapbox API
 Additionally, there is a Mapbox API integration on the screen and address box. Clicking any location inside the Mapbox will provide a pop up of that location's address, as well as a search bar inside the Mapbox window with the option to search up a specific address. Additionally, above the Mapbox window is an input field where users can share addresses. The address input into this field will be displayed on the Mapbox window for both users in the chat. If the input given is not a valid address, then the mapbox will try to autocomplete the false address and will give a location that contains the word inputted. If the address completely fails the search, then the mapbox will center at the lawn.
+
+Created by: Corneel Hollebrandse, Rishal Jagtap, Nicolas Meneses, Edward Lee, and Nathan Do
